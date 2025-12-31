@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "永遠の扉",
+  "base_artist": "米倉千尋",
+  "createdAt": "2025-12-31T10:35:57.260000Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "永遠の扉(GUNDAM 20th ANNIVERSARY VER)",
+      "artist": "米倉千尋",
+      "has_synced": true,
+      "path": "select/01_永遠の扉(GUNDAM_20th_ANNIVERSARY_VER)_米倉千尋.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eien no Tobira [永遠の扉]",
+      "artist": "Chihiro Yonekura",
+      "has_synced": true,
+      "path": "select/02_Eien_no_Tobira_[永遠の扉]_Chihiro_Yonekura.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "永遠の扉",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/03_永遠の扉_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "永遠の扉",
+      "artist": "米倉千尋",
+      "has_synced": false,
+      "path": "select/04_永遠の扉_米倉千尋.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "永遠の扉 [Eternal Door]",
+      "artist": "中森明菜 (Akina Nakamori)",
+      "has_synced": false,
+      "path": "select/05_永遠の扉_[Eternal_Door]_中森明菜_(Akina_Nakamori).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "永遠の扉",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/06_永遠の扉_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "永遠の扉（20TH ANNIVERSARY VERSION）",
+      "artist": "米倉千尋",
+      "has_synced": false,
+      "path": "select/07_永遠の扉(20TH_ANNIVERSARY_VERSION)_米倉千尋.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "永遠の扉",
+      "artist": "米倉 千尋",
+      "has_synced": false,
+      "path": "select/pl_01_永遠の扉_米倉_千尋.txt"
+    }
+  ]
+}
